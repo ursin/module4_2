@@ -2,9 +2,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3
-  - ipython
-  - jupyter
-  - notebook
   - matplotlib
   - matplotlib-venn
